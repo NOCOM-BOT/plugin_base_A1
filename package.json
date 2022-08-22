@@ -1,5 +1,5 @@
 {
-    "name": "@nocom_bot/nocom-atype-template-a1v0",
+    "name": "@nocom_bot/nocom-atype-template-a1v1",
     "version": "0.1.0",
     "description": "",
     "main": "void.js",
@@ -10,12 +10,12 @@
     "author": "",
     "license": "MIT",
     "dependencies": {
-        "@nocom_bot/types_ts_plugin_a1": "^0.11.0",
+        "@nocom_bot/types_ts_plugin_a1": "^0.14.0",
         "@tsconfig/node18": "^1.0.1",
-        "@types/node": "^18"
+        "@types/node": "^18.7.9"
     },
     "NOCOM_AType_Metadata": {
-        "formatVersion": 0,
+        "formatVersion": 1,
         "subclass": 1,
         "entryPoint": "entry.ts",
         "author": "BadAimWeeb (Replace this with your name if this is your plugin)",
